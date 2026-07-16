@@ -1,0 +1,6 @@
+{
+  "name": "GNR Systems",
+  "description": "IT products and services company specializing in mission critical, value-based, IT services and solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
